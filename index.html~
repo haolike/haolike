@@ -2,7 +2,7 @@
 <!DOCTYPE html>
 <html>
   <head><meta charset="utf-8">
-    <title>blackball</title>
+    <title>好礼客</title>
     <link rel="stylesheet" href="./css/style.css">
   </head>
   <body>
@@ -13,8 +13,11 @@
         	<img src="./imgs/cairou.jpg" alt="" height="100" /> 
 			<img src="./imgs/zhurou.jpg" alt="" height="100" /> 
 			<img src="./imgs/hehe.jpg" alt="" height="100" /> 
-        2016-06-29
       </div>
-    </center>、
+   
+    
+    <br/>
+    <img src="./imgs/qr.png" alt=""/>
+     </center>
   </body>
 </html>
